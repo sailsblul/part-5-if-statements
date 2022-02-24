@@ -50,7 +50,7 @@ namespace part_5_if_statements
                 {
                     Console.WriteLine("child");
                 }
-                else if (age <= 0)
+                else if (age >= 0)
                 {
                     Console.WriteLine("toddler");
                 }
